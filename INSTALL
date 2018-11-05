@@ -1,0 +1,9 @@
+Building Esperanto
+
+See doc/readme-qt.rst for instructions on building Esperanto QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Esperanto.
+
+See doc/build-*.txt for instructions on building esperantod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Esperanto.
